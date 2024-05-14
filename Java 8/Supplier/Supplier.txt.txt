@@ -1,0 +1,8 @@
+The Supplier Interface is a part of the java.util.function package which has been introduced since Java 8, to implement functional programming in Java. It represents a function which does not take in any argument but produces a value of type T.
+
+
+The "Supplier" interface is a functional interface in Java that represents a supplier of results. It has a single method, "get()", that returns a result of a given type. The "Supplier" interface can be used to represent any operation that takes no input and returns a result.
+
+Syntax:
+
+T get()

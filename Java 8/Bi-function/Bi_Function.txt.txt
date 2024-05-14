@@ -1,0 +1,7 @@
+The BiFunction interface allows us to use parameters of different types, with a return value of a third type.
+
+It represents a function which takes in two arguments and produces a result. Hence this functional interface which takes in 3 parameters namely:-
+
+T: denotes the type of the first argument to the function
+U: denotes the type of the second argument to the function
+R: denotes the return type of the function

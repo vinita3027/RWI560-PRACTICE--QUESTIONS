@@ -1,0 +1,15 @@
+> Predicate is a functional interface containing exactly single abstract methods along and default With methods the static and default methods.
+
+> It is functional interface present Inside Java.util.function package.
+
+> since predicate Interface hence it can -functional refer to the lambda expression.
+
+> Predicate 1s a Boolean value functional interface.
+
+> By using predicate interface we can Write the dynamic, reusable conditions.
+
+interface Predicate<T>
+{
+   public boolean test(T,P);
+
+}

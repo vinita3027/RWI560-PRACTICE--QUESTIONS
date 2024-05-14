@@ -1,0 +1,14 @@
+A stream in Java is a sequence of objects that supports various methods which can be pipelined to produce the desired result.
+
+Syntax:- Stream<T> stream;
+
+ Stream operations 
+         1. Getting the stream from this collection 
+         2. Filtering out only even elements 
+         3. Collecting the required elements to List 
+
+Use of Stream in Java
+There uses of Stream in Java are mentioned below:
+
+1. Stream API is a way to express and process collections of objects.
+2. Enable us to perform operations like filtering, mapping,reducing and sorting.

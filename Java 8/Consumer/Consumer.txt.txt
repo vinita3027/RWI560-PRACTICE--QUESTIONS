@@ -1,0 +1,1 @@
+The Consumer interface represents an operation that accepts a single input argument and returns no result. It's a functional interface, meaning it has exactly one abstract method called accept, which takes an input of type T and performs some operation on it.

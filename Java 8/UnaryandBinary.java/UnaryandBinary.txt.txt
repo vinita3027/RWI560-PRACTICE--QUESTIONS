@@ -1,0 +1,23 @@
+Unary Operators:
+
+Unary operators are operators that operate on a single operand. This means they only require one operand to perform the operation. Examples of unary operators include:
+
+Unary minus (-): negates the value of its operand.
+
+Unary plus (+): indicates a positive value, but doesn't actually change the value.
+
+Increment (++) and Decrement (--): increment or decrement the value of its operand by one.
+
+Logical NOT (!): negates the logical value of its operand.
+
+
+
+Binary Operators:
+
+Binary operators, on the other hand, operate on two operands. These operators require two operands to perform the operation. Examples of binary operators include:
+
+Addition (+), Subtraction (-), Multiplication (*), Division (/): perform arithmetic operations on two operands.
+
+Assignment (=): assigns a value to a variable.
+
+Comparison operators (==, !=, <, >, <=, >=): compare two values and return a boolean result.

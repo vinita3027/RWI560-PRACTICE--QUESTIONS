@@ -1,0 +1,1 @@
+BiPredicate is a functional interface in Java that accepts two inputs and can return a boolean value. Predicate and BiPredicate are usually used to apply in a filter for a collection of objects.

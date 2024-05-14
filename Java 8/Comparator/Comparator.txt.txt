@@ -1,0 +1,16 @@
+Comparator as a set of instructions for comparing things.For example you have a bunch of fruits, and you want to line them up in order. The Comparator tells you how to decide which fruit comes before or after another.
+
+ if you're sorting fruits by their names, the Comparator says something like, "Compare the names of two fruits. If one name comes before the other in the dictionary, put that fruit first. If not, put it after."
+
+So, in simple terms, a Comparator helps you compare things and decide their order.
+
+
+In code, a Comparator typically has a method called compare that takes two objects as input and returns an integer:
+
+If the first object should come before the second one, compare returns a negative number.
+If the first object should come after the second one, compare returns a positive number.
+If the objects are equal in terms of sorting, compare returns zero.
+
+
+
+
